@@ -20,7 +20,7 @@ author: Diogo Araújo
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "I am a graduate researcher specializing in robust image analysis and AI-driven fairness methods. My work bridges generative AI, robotics, and multimodal learning to address real-world challenges. I recently completed a Masters degree in Electrical and Computer Engineering at Instituto Superior Técnico, University of Lisbon, specialising in Control, Robotics and Artificial Intelligence. Under the supervision of Professors Catarina Barata and Carlos Santiago, I conducted research in robust medical image analysis. My work explored the combination of Vision Transformers and Multiple Instance Learning to create a novel classification framework that focuses only on the most relevant patches. This framework was published in the DEF-MIA-AI workshop at CVPR 2024. Currently, I am a visiting researcher at the Robotics Institute, Carnegie Mellon University. Working with Professor Fernando De la Torre, I am developing methods to de-bias classifiers using generative AI."
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
